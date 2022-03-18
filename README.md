@@ -30,20 +30,9 @@
 
 
 --------------------------------------------------------------------------------
-<h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
-
-<br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
