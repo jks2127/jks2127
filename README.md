@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://jugalkishorsingh.blogspot.com/](https://jugalkishorsingh.blogspot.com/)
 
+<img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jks2127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jks2127" height="30" width="40" /></a>
